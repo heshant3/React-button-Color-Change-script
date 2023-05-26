@@ -1,0 +1,12 @@
+.nav-button {
+  background-color: blue;
+  color: white;
+}
+
+.nav-button.active {
+  background-color: red;
+}
+
+.nav-button.pink {
+  background-color: pink;
+}
